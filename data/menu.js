@@ -87,7 +87,7 @@ export const menuItems = [
   {
     title: "Blog",
     subItems: [
-      // { title: "Blog Grid", href: "/blog-grid" },
+      { title: "Blog Grid", href: "/blog-grid" },
       // { title: "Blog List 01", href: "/blog-list-v1" },
       // { title: "Blog List 02", href: "/blog-list-v2" },
       { title: "Blog Single", href: "/blog-single/1" },

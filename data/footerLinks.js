@@ -42,6 +42,9 @@ export const menuItems = [
 export const socialLinks = [
   { icon: "flaticon-facebook-1", href: "#" },
   { icon: "icon-twitter", href: "#" },
-  { icon: "flaticon-instagram", href: "#" },
+  {
+    icon: "flaticon-instagram",
+    href: "https://www.instagram.com/theupthrust?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw==",
+  },
   { icon: "flaticon-linkedin-1", href: "#" },
 ];

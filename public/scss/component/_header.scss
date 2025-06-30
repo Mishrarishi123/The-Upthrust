@@ -115,7 +115,7 @@
             @include transition3();
           }
           &:hover {
-            background-color: var(--bg-4);
+            background-color: var(--bg-6);
             &::before {
               height: 100%;
               top: 0px;
@@ -131,7 +131,7 @@
         }
       }
       .sub-menu {
-        background-color: var(--bg-4);
+        background-color: var(--bg-6);
         border-radius: 0 4px 4px 0 !important;
         border-left: 0 !important;
         top: -1px;
@@ -203,9 +203,9 @@
           @include transition3;
           &.current,
           &:hover {
-            background-color: var(--bg-4);
+            background-color: var(--Secondary);
             a {
-              color: var(--Secondary);
+              color: var(--White);
             }
           }
         }

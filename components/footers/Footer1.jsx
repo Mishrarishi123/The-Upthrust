@@ -170,7 +170,7 @@ export default function Footer1({ parentClass = "footer" }) {
                         </a>
                       </li>
                       <li>
-                        <a href="#">
+                        <a href="https://play.google.com/store/apps/details?id=com.csl.theupthrust&pcampaignid=web_share">
                           <div className="icon">
                             <i className="icon-chplay" />
                           </div>

@@ -387,7 +387,7 @@
 
       &:checked {
         ~ .btn-checkbox {
-          background-color: var(--Primary);
+          background-color: var(--Secondary);
 
           &:after {
             display: block;
