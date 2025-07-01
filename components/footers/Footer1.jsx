@@ -159,7 +159,7 @@ export default function Footer1({ parentClass = "footer" }) {
                     <h5 className="fw-5 get-app">Get the app</h5>
                     <ul className="tf-app-download">
                       <li>
-                        <a href="#">
+                        <a href="https://apps.apple.com/in/app/the-upthrust/id6742101711">
                           <div className="icon">
                             <i className="icon-apple" />
                           </div>

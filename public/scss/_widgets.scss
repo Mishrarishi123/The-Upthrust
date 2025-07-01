@@ -1676,8 +1676,11 @@ instructors-item
 
     .tag-list-item:hover {
       background-color: var(--bg-4);
-      // border-color: var(--Primary);
       border-color: var(--Secondary);
+    }
+    
+    a:hover {
+      color: var(--Black);
     }
   }
 
@@ -1685,7 +1688,6 @@ instructors-item
     .tag-list {
       .tag-list-item {
         border-radius: 120px;
-        // background-color: rgba(255, 255, 255, 0.7);
         background-color: #135CE9;
       }
     }
@@ -1695,13 +1697,11 @@ instructors-item
     .tag-list {
       .tag-list-item {
         border-radius: 120px;
-        // background-color: rgba(255, 255, 255, 0.7);
         background-color: var(--Secondary);
-        // border-color: var(--Primary);
         border-color: #135CE9;
 
         &:hover {
-          background-color: var(--bg-4);
+          background-color: #D1E0FF;
         }
       }
     }
